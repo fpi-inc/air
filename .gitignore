@@ -18,3 +18,11 @@ Thumbs.db
 .svn/
 *.swp
 out/
+.sass-cache/
+bower_components/
+config.rb
+dist/
+stylesheets/
+javascripts/plugin/
+javascripts/main-built.js
+javascripts/r.js
